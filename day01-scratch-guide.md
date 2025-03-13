@@ -9,7 +9,7 @@
 
 ## 準備しよう
 1. パソコンでインターネットブラウザを開こう
-2. 「Scratch」のウェブサイト（https://scratch.mit.edu/）にアクセスしよう
+2. 「[Scratch](https://scratch.mit.edu/)」のウェブサイトにアクセスしよう → https://scratch.mit.edu/ 
 3. 右上の「Scratchを始めよう」をクリックしよう
 4. 大人の人と一緒にアカウントを作ろう（すでに持っている場合はログインしよう）
 
