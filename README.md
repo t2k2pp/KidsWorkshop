@@ -33,7 +33,10 @@
 - [Day 14: タイピングゲームを英語学習アプリに変身させよう！](https://github.com/t2k2pp/KidsWorkshop/blob/main/day14-python-guide.md)
 - [Day 15: 生成AIで作った問題データを活用して英語学習アプリを完成させよう！](https://github.com/t2k2pp/KidsWorkshop/blob/main/day15-python-guide.md)
 
-  
+# 本書のターゲット
+
+本書は小学6年生から中学生になる春休みの期間に実施することを想定して作成しています。
+
 # 本書について
 
 本書は生成AIの Claude 3.7 を利用して作成しました。
